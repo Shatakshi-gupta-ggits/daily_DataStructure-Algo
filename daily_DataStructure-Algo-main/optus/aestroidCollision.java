@@ -1,5 +1,5 @@
 package optus;
 
-public enum aestroidCollision {
+public class aestroidCollision {
     
 }
